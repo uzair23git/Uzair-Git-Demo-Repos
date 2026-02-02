@@ -1,4 +1,4 @@
 # Uzair-Git-Demo-Repos
 1st Repo
 <br>
-Author: Uzair Qureshi
+Author: Uzair Qureshi (Mr Eus)
